@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Interactive Supplementary Appendix"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: figures.qmd
+        text: Figures
+      - href: tables.qmd
+        text: Tables
+      - href: Resources.qmd
+        text: Resources
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.datatables.net/2.3.4/css/dataTables.dataTables.min.css">
+
+        <script>
+          // Prevent RequireJS from interfering with DataTables UMD module
+          var define = undefined;
+          var require = undefined;
+        </script>
+
+        <script src="https://cdn.datatables.net/2.3.4/js/dataTables.min.js"></script>
+        <script src="assets/js/site.js"></script>

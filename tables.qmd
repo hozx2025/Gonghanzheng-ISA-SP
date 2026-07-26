@@ -1,0 +1,66 @@
+---
+title: "Interactive Tables"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+This page provides interactive tables, source data and table notes accompanying the manuscript.
+
+---
+<!-- Tables 1 -->
+# Tables 1. Decision Curve Analysis (DCA)
+
+## Manuscript Table 
+
+![](assets/img/DCA_table.png){fig-align="center" width="85%"}
+
+---
+
+## Interactive Table
+
+```{python}
+import pandas as pd
+from IPython.display import HTML
+
+# 读取 CSV
+df = pd.read_csv("assets/data/DCA_Curve_Data.csv")
+
+# 输出 HTML Table
+HTML(
+    df.to_html(
+        index=False,
+        table_id="figure1_table",
+        classes=[
+            "display",
+            "compact",
+            "stripe",
+            "hover",
+            "nowrap"
+        ],
+        border=0,
+        escape=False
+    )
+)
+```
+
+---
+
+## Download Source Data
+
+<a href="assets/data/DCA_Curve_Data.csv"
+   download
+   class="btn btn-primary">
+⬇ Download CSV
+</a>
+
+---
+
+## Table Notes
+
+> **Decision Curve Analysis (DCA).**
+
+Replace this section with the original figure legend exactly as it appears in the manuscript.
+
+---

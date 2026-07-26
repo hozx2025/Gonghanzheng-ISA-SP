@@ -1,0 +1,91 @@
+---
+title: "Research Resources"
+---
+
+This page provides all downloadable resources accompanying this manuscript, including source data, supplementary files, software environment information, citation information, and license details.
+
+---
+
+## Download Source Data
+
+::: {.callout-note}
+
+### Source Data
+
+Download all source data used to generate the figures and statistical analyses presented in this manuscript.
+
+**File**
+
+- 📦 [Source_Data.zip](assets/downloads/Source_Data.zip)
+
+:::
+
+---
+
+## Download Supplementary Files
+
+::: {.callout-note}
+
+### Supplementary Files
+
+Download supplementary materials associated with this manuscript.
+
+**File**
+
+- 📦 [Supplementary_Files.zip](assets/downloads/Supplementary_Files.zip)
+
+:::
+
+---
+
+## Software Environment
+
+::: {.callout-note}
+
+### Software Environment
+
+The computational environment used for data analysis and visualization.
+
+**File**
+
+- 📄 [requirements.txt](assets/downloads/requirements.txt)
+
+:::
+
+---
+
+## Citation
+
+::: {.callout-note}
+
+### Citation
+
+Please cite this work using the citation information below.
+
+**BibTeX**
+
+- 📄 [CITATION.bib](assets/downloads/CITATION.bib)
+
+:::
+
+---
+
+## License
+
+::: {.callout-note}
+
+### License
+
+This supplementary website and associated resources are distributed under the license below.
+
+**File**
+
+- 📄 [LICENSE.txt](assets/downloads/LICENSE.txt)
+
+:::
+
+---
+
+## Contact
+
+For questions regarding this Interactive Supplementary Appendix, please contact the corresponding author listed in the manuscript.

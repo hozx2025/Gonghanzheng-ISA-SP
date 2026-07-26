@@ -1,0 +1,338 @@
+[
+  {
+    "objectID": "环境管理_readme.html",
+    "href": "环境管理_readme.html",
+    "title": "1.VScode管理",
+    "section": "",
+    "text": "1.进入TERMINAL 2. 执行：get-ExecutionPolicy，显示Restricted，表示状态是禁止的; 3. 执行：set-ExecutionPolicy RemoteSigned; 或 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned 4. 这时再执行get-ExecutionPolicy，就显示RemoteSigned;\n\n\n\n【设置】【时间和语言】【管理语言设置】【管理】【更改系统区域设置】 将 beta版挑勾，重启\n\n\n\nCode Runner code runner [设置] defaultLanguage:设置为PYTHON\n\n\n\n\"code-runner.executorMap\": {\n      \"python\": \"D:/MyPrograms/数据建模/dproc/Scripts/python -u\", ##修改设置为VENV的路径\n}"
+  },
+  {
+    "objectID": "环境管理_readme.html#以管理员身份运行vscode解决python-enve-不能运行脚本问题",
+    "href": "环境管理_readme.html#以管理员身份运行vscode解决python-enve-不能运行脚本问题",
+    "title": "1.VScode管理",
+    "section": "",
+    "text": "1.进入TERMINAL 2. 执行：get-ExecutionPolicy，显示Restricted，表示状态是禁止的; 3. 执行：set-ExecutionPolicy RemoteSigned; 或 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned 4. 这时再执行get-ExecutionPolicy，就显示RemoteSigned;"
+  },
+  {
+    "objectID": "环境管理_readme.html#将terminial修改支持-gbk解决terminial中文乱码问题",
+    "href": "环境管理_readme.html#将terminial修改支持-gbk解决terminial中文乱码问题",
+    "title": "1.VScode管理",
+    "section": "",
+    "text": "【设置】【时间和语言】【管理语言设置】【管理】【更改系统区域设置】 将 beta版挑勾，重启"
+  },
+  {
+    "objectID": "环境管理_readme.html#装入显示运行图标",
+    "href": "环境管理_readme.html#装入显示运行图标",
+    "title": "1.VScode管理",
+    "section": "",
+    "text": "Code Runner code runner [设置] defaultLanguage:设置为PYTHON"
+  },
+  {
+    "objectID": "环境管理_readme.html#f1-首选项打开用户设置json-修改运行的虚拟环境",
+    "href": "环境管理_readme.html#f1-首选项打开用户设置json-修改运行的虚拟环境",
+    "title": "1.VScode管理",
+    "section": "",
+    "text": "\"code-runner.executorMap\": {\n      \"python\": \"D:/MyPrograms/数据建模/dproc/Scripts/python -u\", ##修改设置为VENV的路径\n}"
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Research Resources",
+    "section": "",
+    "text": "This page provides all downloadable resources accompanying this manuscript, including source data, supplementary files, software environment information, citation information, and license details."
+  },
+  {
+    "objectID": "Resources.html#download-source-data",
+    "href": "Resources.html#download-source-data",
+    "title": "Research Resources",
+    "section": "Download Source Data",
+    "text": "Download Source Data\n\n\n\n\n\n\nNoteSource Data\n\n\n\nDownload all source data used to generate the figures and statistical analyses presented in this manuscript.\nFile\n\n📦 Source_Data.zip"
+  },
+  {
+    "objectID": "Resources.html#download-supplementary-files",
+    "href": "Resources.html#download-supplementary-files",
+    "title": "Research Resources",
+    "section": "Download Supplementary Files",
+    "text": "Download Supplementary Files\n\n\n\n\n\n\nNoteSupplementary Files\n\n\n\nDownload supplementary materials associated with this manuscript.\nFile\n\n📦 Supplementary_Files.zip"
+  },
+  {
+    "objectID": "Resources.html#software-environment",
+    "href": "Resources.html#software-environment",
+    "title": "Research Resources",
+    "section": "Software Environment",
+    "text": "Software Environment\n\n\n\n\n\n\nNoteSoftware Environment\n\n\n\nThe computational environment used for data analysis and visualization.\nFile\n\n📄 requirements.txt"
+  },
+  {
+    "objectID": "Resources.html#citation",
+    "href": "Resources.html#citation",
+    "title": "Research Resources",
+    "section": "Citation",
+    "text": "Citation\n\n\n\n\n\n\nNoteCitation\n\n\n\nPlease cite this work using the citation information below.\nBibTeX\n\n📄 CITATION.bib"
+  },
+  {
+    "objectID": "Resources.html#license",
+    "href": "Resources.html#license",
+    "title": "Research Resources",
+    "section": "License",
+    "text": "License\n\n\n\n\n\n\nNoteLicense\n\n\n\nThis supplementary website and associated resources are distributed under the license below.\nFile\n\n📄 LICENSE.txt"
+  },
+  {
+    "objectID": "Resources.html#contact",
+    "href": "Resources.html#contact",
+    "title": "Research Resources",
+    "section": "Contact",
+    "text": "Contact\nFor questions regarding this Interactive Supplementary Appendix, please contact the corresponding author listed in the manuscript."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/win32comext/mapi/NOTICE.html",
+    "href": "gonghan-ISA/Lib/site-packages/win32comext/mapi/NOTICE.html",
+    "title": "Licensing",
+    "section": "",
+    "text": "Licensing\nThis distributed package contains components under multiple licenses:\n\nmapi.pyd and exchange.pyd include compiled code licensed under the MIT License. See com/win32comext/mapi/src/MAPIStubLibrary/LICENSE for details.\nFor all other distributed files in this package, see the included License.txt and Project License from Metadatas"
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/numpy/random/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/numpy/random/LICENSE.html",
+    "title": "NCSA Open Source License",
+    "section": "",
+    "text": "This software is dual-licensed under the The University of Illinois/NCSA Open Source License (NCSA) and The 3-Clause BSD License\n\nNCSA Open Source License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nDeveloped by: Kevin Sheppard (kevin.sheppard@economics.ox.ac.uk, kevin.k.sheppard@gmail.com) http://www.kevinsheppard.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal with the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimers in the documentation and/or other materials provided with the distribution.\nNeither the names of Kevin Sheppard, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.\n\n\n3-Clause BSD License\nCopyright (c) 2019 Kevin Sheppard. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n\nComponents\nMany parts of this module have been derived from original sources, often the algorithm’s designer. Component licenses are located with the component code."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "BSD 3-Clause License\nCopyright (c) 2013-2026, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "figures.html",
+    "href": "figures.html",
+    "title": "Interactive Figures1",
+    "section": "",
+    "text": "This page provides the original figures, interactive visualizations, source data and figure legends accompanying the manuscript."
+  },
+  {
+    "objectID": "figures.html#original-figure",
+    "href": "figures.html#original-figure",
+    "title": "Interactive Figures1",
+    "section": "Original Figure",
+    "text": "Original Figure"
+  },
+  {
+    "objectID": "figures.html#interactive-figure",
+    "href": "figures.html#interactive-figure",
+    "title": "Interactive Figures1",
+    "section": "Interactive Figure",
+    "text": "Interactive Figure\n\n\n\n\n\n\nNote\n\n\n\nThe interactive Plotly version of this figure will be added here."
+  },
+  {
+    "objectID": "figures.html#source-data",
+    "href": "figures.html#source-data",
+    "title": "Interactive Figures1",
+    "section": "Source Data",
+    "text": "Source Data\n\nimport pandas as pd\nfrom IPython.display import HTML\n\n# 读取 CSV\ndf = pd.read_csv(\"assets/data/DCA_Curve_Data.csv\")\n\n# 输出 HTML Table\nHTML(\n    df.to_html(\n        index=False,\n        table_id=\"figure1_table\",\n        classes=[\n            \"display\",\n            \"compact\",\n            \"stripe\",\n            \"hover\",\n            \"nowrap\"\n        ],\n        border=0,\n        escape=False\n    )\n)\n\n\n\n\nThreshold\nNet_Benefit_Model\nNet_Benefit_TreatAll\nNet_Benefit_TreatNone\n\n\n\n\n0.01\n0.542407\n0.542407\n0\n\n\n0.02\n0.537738\n0.537738\n0\n\n\n0.03\n0.532972\n0.532972\n0\n\n\n0.04\n0.528107\n0.528107\n0\n\n\n0.05\n0.523140\n0.523140\n0\n\n\n0.06\n0.518130\n0.518067\n0\n\n\n0.07\n0.513332\n0.512885\n0\n\n\n0.08\n0.508795\n0.507590\n0\n\n\n0.09\n0.504331\n0.502179\n0\n\n\n0.10\n0.499396\n0.496648\n0\n\n\n0.11\n0.492193\n0.490992\n0\n\n\n0.12\n0.486422\n0.485208\n0\n\n\n0.13\n0.482975\n0.479291\n0\n\n\n0.14\n0.477147\n0.473236\n0\n\n\n0.15\n0.473614\n0.467039\n0\n\n\n0.16\n0.469879\n0.460694\n0\n\n\n0.17\n0.465280\n0.454197\n0\n\n\n0.18\n0.461123\n0.447540\n0\n\n\n0.19\n0.456521\n0.440720\n0\n\n\n0.20\n0.454995\n0.433729\n0\n\n\n0.21\n0.453405\n0.426561\n0\n\n\n0.22\n0.450126\n0.419209\n0\n\n\n0.23\n0.445669\n0.411666\n0\n\n\n0.24\n0.443282\n0.403925\n0\n\n\n0.25\n0.440818\n0.395978\n0\n\n\n0.26\n0.438982\n0.387815\n0\n\n\n0.27\n0.438627\n0.379429\n0\n\n\n0.28\n0.435542\n0.370810\n0\n\n\n0.29\n0.431173\n0.361948\n0\n\n\n0.30\n0.418539\n0.352833\n0\n\n\n0.31\n0.410040\n0.343454\n0\n\n\n0.32\n0.401583\n0.333799\n0\n\n\n0.33\n0.394157\n0.323855\n0\n\n\n0.34\n0.390253\n0.313611\n0\n\n\n0.35\n0.389104\n0.303051\n0\n\n\n0.36\n0.386746\n0.292161\n0\n\n\n0.37\n0.386432\n0.280926\n0\n\n\n0.38\n0.381130\n0.269328\n0\n\n\n0.39\n0.376676\n0.257349\n0\n\n\n0.40\n0.372239\n0.244972\n0\n\n\n0.41\n0.367885\n0.232175\n0\n\n\n0.42\n0.365053\n0.218937\n0\n\n\n0.43\n0.359953\n0.205234\n0\n\n\n0.44\n0.358061\n0.191041\n0\n\n\n0.45\n0.352486\n0.176333\n0\n\n\n0.46\n0.348793\n0.161080\n0\n\n\n0.47\n0.345445\n0.145251\n0\n\n\n0.48\n0.337062\n0.128814\n0\n\n\n0.49\n0.330754\n0.111732\n0\n\n\n0.50\n0.329377\n0.093966\n0\n\n\n0.51\n0.323119\n0.075476\n0\n\n\n0.52\n0.315035\n0.056215\n0\n\n\n0.53\n0.306732\n0.036134\n0\n\n\n0.54\n0.298671\n0.015181\n0\n\n\n0.55\n0.290691\n-0.006704\n0\n\n\n0.56\n0.282529\n-0.029584\n0\n\n\n0.57\n0.270076\n-0.053527\n0\n\n\n0.58\n0.264801\n-0.078611\n0\n\n\n0.59\n0.262672\n-0.104919\n0\n\n\n0.60\n0.258160\n-0.132542\n0\n\n\n0.61\n0.252733\n-0.161582\n0\n\n\n0.62\n0.241658\n-0.192150\n0\n\n\n0.63\n0.234555\n-0.224370\n0\n\n\n0.64\n0.226728\n-0.258380\n0\n\n\n0.65\n0.216617\n-0.294334\n0\n\n\n0.66\n0.198580\n-0.332402\n0\n\n\n0.67\n0.189791\n-0.372778\n0\n\n\n0.68\n0.175692\n-0.415678\n0\n\n\n0.69\n0.166619\n-0.461345\n0\n\n\n0.70\n0.158589\n-0.510056\n0\n\n\n0.71\n0.134759\n-0.562127\n0\n\n\n0.72\n0.120673\n-0.617917\n0\n\n\n0.73\n0.094589\n-0.677840\n0\n\n\n0.74\n0.065891\n-0.742372\n0\n\n\n0.75\n0.067260\n-0.812067\n0\n\n\n0.76\n0.059677\n-0.887570\n0\n\n\n0.77\n0.058917\n-0.969638\n0\n\n\n0.78\n0.040734\n-1.059167\n0\n\n\n0.79\n0.028355\n-1.157223\n0\n\n\n0.80\n0.026706\n-1.265084\n0\n\n\n0.81\n0.015774\n-1.384299\n0\n\n\n0.82\n0.013188\n-1.516760\n0\n\n\n0.83\n0.012102\n-1.664805\n0\n\n\n0.84\n0.008408\n-1.831355\n0\n\n\n0.85\n-0.001319\n-2.020112\n0\n\n\n0.86\n-0.006217\n-2.235834\n0\n\n\n0.87\n0.002967\n-2.484745\n0\n\n\n0.88\n0.002967\n-2.775140\n0\n\n\n0.89\n0.002967\n-3.118335\n0\n\n\n0.90\n0.001978\n-3.530168\n0\n\n\n0.91\n0.001978\n-4.033520\n0\n\n\n0.92\n0.001978\n-4.662710\n0\n\n\n0.93\n0.001978\n-5.471669\n0\n\n\n0.94\n0.001978\n-6.550280\n0\n\n\n0.95\n0.001978\n-8.060336\n0\n\n\n0.96\n0.000989\n-10.325420\n0\n\n\n0.97\n0.000000\n-14.100561\n0\n\n\n0.98\n0.000000\n-21.650841\n0\n\n\n0.99\n0.000000\n-44.301682\n0"
+  },
+  {
+    "objectID": "figures.html#download-source-data",
+    "href": "figures.html#download-source-data",
+    "title": "Interactive Figures1",
+    "section": "Download Source Data",
+    "text": "Download Source Data\n ⬇ Download CSV"
+  },
+  {
+    "objectID": "figures.html#figure-legend",
+    "href": "figures.html#figure-legend",
+    "title": "Interactive Figures1",
+    "section": "Figure Legend",
+    "text": "Figure Legend\n\nDecision Curve Analysis (DCA).\n\nReplace this section with the original figure legend exactly as it appears in the manuscript."
+  },
+  {
+    "objectID": "figures.html#original-figure-1",
+    "href": "figures.html#original-figure-1",
+    "title": "Interactive Figures1",
+    "section": "Original Figure",
+    "text": "Original Figure"
+  },
+  {
+    "objectID": "figures.html#interactive-figure-1",
+    "href": "figures.html#interactive-figure-1",
+    "title": "Interactive Figures1",
+    "section": "Interactive Figure",
+    "text": "Interactive Figure\n\n\n\n\n\n\nTip\n\n\n\nClick legend items to toggle curves on/off — same functionality as the desktop viewer with checkboxes.\n\n\n\nimport runpy\n_ = runpy.run_path(\"assets/script/interactive_roc_viewer.py\", run_name=\"__main__\")\n\nLoading: assets/data/ROC_Comparison_Data_new.csv"
+  },
+  {
+    "objectID": "figures.html#source-data-1",
+    "href": "figures.html#source-data-1",
+    "title": "Interactive Figures1",
+    "section": "Source Data",
+    "text": "Source Data\n\nimport pandas as pd\nfrom IPython.display import HTML\n\n# 读取 CSV\ndf = pd.read_csv(\"assets/data/DCA_Curve_Data.csv\")\n\n# 输出 HTML Table\nHTML(\n    df.to_html(\n        index=False,\n        table_id=\"figure1_table\",\n        classes=[\n            \"display\",\n            \"compact\",\n            \"stripe\",\n            \"hover\",\n            \"nowrap\"\n        ],\n        border=0,\n        escape=False\n    )\n)\n\n\n\n\nThreshold\nNet_Benefit_Model\nNet_Benefit_TreatAll\nNet_Benefit_TreatNone\n\n\n\n\n0.01\n0.542407\n0.542407\n0\n\n\n0.02\n0.537738\n0.537738\n0\n\n\n0.03\n0.532972\n0.532972\n0\n\n\n0.04\n0.528107\n0.528107\n0\n\n\n0.05\n0.523140\n0.523140\n0\n\n\n0.06\n0.518130\n0.518067\n0\n\n\n0.07\n0.513332\n0.512885\n0\n\n\n0.08\n0.508795\n0.507590\n0\n\n\n0.09\n0.504331\n0.502179\n0\n\n\n0.10\n0.499396\n0.496648\n0\n\n\n0.11\n0.492193\n0.490992\n0\n\n\n0.12\n0.486422\n0.485208\n0\n\n\n0.13\n0.482975\n0.479291\n0\n\n\n0.14\n0.477147\n0.473236\n0\n\n\n0.15\n0.473614\n0.467039\n0\n\n\n0.16\n0.469879\n0.460694\n0\n\n\n0.17\n0.465280\n0.454197\n0\n\n\n0.18\n0.461123\n0.447540\n0\n\n\n0.19\n0.456521\n0.440720\n0\n\n\n0.20\n0.454995\n0.433729\n0\n\n\n0.21\n0.453405\n0.426561\n0\n\n\n0.22\n0.450126\n0.419209\n0\n\n\n0.23\n0.445669\n0.411666\n0\n\n\n0.24\n0.443282\n0.403925\n0\n\n\n0.25\n0.440818\n0.395978\n0\n\n\n0.26\n0.438982\n0.387815\n0\n\n\n0.27\n0.438627\n0.379429\n0\n\n\n0.28\n0.435542\n0.370810\n0\n\n\n0.29\n0.431173\n0.361948\n0\n\n\n0.30\n0.418539\n0.352833\n0\n\n\n0.31\n0.410040\n0.343454\n0\n\n\n0.32\n0.401583\n0.333799\n0\n\n\n0.33\n0.394157\n0.323855\n0\n\n\n0.34\n0.390253\n0.313611\n0\n\n\n0.35\n0.389104\n0.303051\n0\n\n\n0.36\n0.386746\n0.292161\n0\n\n\n0.37\n0.386432\n0.280926\n0\n\n\n0.38\n0.381130\n0.269328\n0\n\n\n0.39\n0.376676\n0.257349\n0\n\n\n0.40\n0.372239\n0.244972\n0\n\n\n0.41\n0.367885\n0.232175\n0\n\n\n0.42\n0.365053\n0.218937\n0\n\n\n0.43\n0.359953\n0.205234\n0\n\n\n0.44\n0.358061\n0.191041\n0\n\n\n0.45\n0.352486\n0.176333\n0\n\n\n0.46\n0.348793\n0.161080\n0\n\n\n0.47\n0.345445\n0.145251\n0\n\n\n0.48\n0.337062\n0.128814\n0\n\n\n0.49\n0.330754\n0.111732\n0\n\n\n0.50\n0.329377\n0.093966\n0\n\n\n0.51\n0.323119\n0.075476\n0\n\n\n0.52\n0.315035\n0.056215\n0\n\n\n0.53\n0.306732\n0.036134\n0\n\n\n0.54\n0.298671\n0.015181\n0\n\n\n0.55\n0.290691\n-0.006704\n0\n\n\n0.56\n0.282529\n-0.029584\n0\n\n\n0.57\n0.270076\n-0.053527\n0\n\n\n0.58\n0.264801\n-0.078611\n0\n\n\n0.59\n0.262672\n-0.104919\n0\n\n\n0.60\n0.258160\n-0.132542\n0\n\n\n0.61\n0.252733\n-0.161582\n0\n\n\n0.62\n0.241658\n-0.192150\n0\n\n\n0.63\n0.234555\n-0.224370\n0\n\n\n0.64\n0.226728\n-0.258380\n0\n\n\n0.65\n0.216617\n-0.294334\n0\n\n\n0.66\n0.198580\n-0.332402\n0\n\n\n0.67\n0.189791\n-0.372778\n0\n\n\n0.68\n0.175692\n-0.415678\n0\n\n\n0.69\n0.166619\n-0.461345\n0\n\n\n0.70\n0.158589\n-0.510056\n0\n\n\n0.71\n0.134759\n-0.562127\n0\n\n\n0.72\n0.120673\n-0.617917\n0\n\n\n0.73\n0.094589\n-0.677840\n0\n\n\n0.74\n0.065891\n-0.742372\n0\n\n\n0.75\n0.067260\n-0.812067\n0\n\n\n0.76\n0.059677\n-0.887570\n0\n\n\n0.77\n0.058917\n-0.969638\n0\n\n\n0.78\n0.040734\n-1.059167\n0\n\n\n0.79\n0.028355\n-1.157223\n0\n\n\n0.80\n0.026706\n-1.265084\n0\n\n\n0.81\n0.015774\n-1.384299\n0\n\n\n0.82\n0.013188\n-1.516760\n0\n\n\n0.83\n0.012102\n-1.664805\n0\n\n\n0.84\n0.008408\n-1.831355\n0\n\n\n0.85\n-0.001319\n-2.020112\n0\n\n\n0.86\n-0.006217\n-2.235834\n0\n\n\n0.87\n0.002967\n-2.484745\n0\n\n\n0.88\n0.002967\n-2.775140\n0\n\n\n0.89\n0.002967\n-3.118335\n0\n\n\n0.90\n0.001978\n-3.530168\n0\n\n\n0.91\n0.001978\n-4.033520\n0\n\n\n0.92\n0.001978\n-4.662710\n0\n\n\n0.93\n0.001978\n-5.471669\n0\n\n\n0.94\n0.001978\n-6.550280\n0\n\n\n0.95\n0.001978\n-8.060336\n0\n\n\n0.96\n0.000989\n-10.325420\n0\n\n\n0.97\n0.000000\n-14.100561\n0\n\n\n0.98\n0.000000\n-21.650841\n0\n\n\n0.99\n0.000000\n-44.301682\n0"
+  },
+  {
+    "objectID": "figures.html#download-source-data-1",
+    "href": "figures.html#download-source-data-1",
+    "title": "Interactive Figures1",
+    "section": "Download Source Data",
+    "text": "Download Source Data\n ⬇ Download CSV"
+  },
+  {
+    "objectID": "figures.html#figure-legend-1",
+    "href": "figures.html#figure-legend-1",
+    "title": "Interactive Figures1",
+    "section": "Figure Legend",
+    "text": "Figure Legend\n\nROC Comparison: Fusion (with 95% CI) vs Single-modality.\n\nBootstrap-derived mean ROC curve for the fusion model (dark red) with 95% confidence band, compared against four single-modality baseline models. Click legend items to toggle individual curves."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/narwhals-2.21.0.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/narwhals-2.21.0.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2024 to present, Marco Gorelli\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html",
+    "href": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "If not provided or if target language definition is ambiguous, ask for examples of valid strings to be parsed\nBefore developing the pyparsing expressions, define a Backus-Naur Form definition and save this in docs/grammar.md. Update this document as changes are made in the parser."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#planning",
+    "href": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#planning",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "If not provided or if target language definition is ambiguous, ask for examples of valid strings to be parsed\nBefore developing the pyparsing expressions, define a Backus-Naur Form definition and save this in docs/grammar.md. Update this document as changes are made in the parser."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#implementing",
+    "href": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#implementing",
+    "title": "Interactive Supplementary Appendix",
+    "section": "Implementing",
+    "text": "Implementing\n\nImport pyparsing using import pyparsing as pp, and use that for all pyparsing references.\n\nIf referencing names from pyparsing.common, follow the pyparsing import with “ppc = pp.common” and use ppc as the namespace to access pyparsing.common.\nIf referencing names from pyparsing.unicode, follow the pyparsing import with “ppu = pp.unicode” and use ppu as the namespace to access pyparsing.unicode.\n\nWhen writing parsers that contain recursive elements (using Forward() or infix_notation()), immediately enable packrat parsing for performance: pp.ParserElement.enable_packrat() (call this right after importing pyparsing). See https://pyparsing-docs.readthedocs.io/en/latest/HowToUsePyparsing.html.\n\nFor recursive grammars, define placeholders with pp.Forward() and assign later using the &lt;&lt;= operator; give Forwards meaningful names with set_name() to improve errors.\n\nUse PEP8 method and argument names in the pyparsing API (parse_string, not parseString).\nDo not include expressions for matching whitespace in the grammar. Pyparsing skips whitespace by default.\nFor line-oriented grammars where newlines are significant, set skippable whitespace to just spaces/tabs early: pp.ParserElement.set_default_whitespace_chars(\" \\t\"), and define NL = pp.LineEnd().suppress() to handle line ends explicitly.\nPrefer operator forms for readability: use +, |, ^, ~, etc., instead of explicit And/MatchFirst/Or/Not classes (see Usage notes in https://pyparsing-docs.readthedocs.io/en/latest/HowToUsePyparsing.html).\nUse set_name() on all major grammar elements to support railroad diagramming and better error/debug output.\nThe grammar should be independently testable, without pulling in separate modules for data structures, evaluation, or command execution.\nUse results names for robust access to parsed data fields; results names should be valid Python identifiers to support attribute-style access on returned ParseResults.\n\nResults names should take the place of numeric indexing into parsed results in most places.\nDefine results names using call format not set_results_name(), example: full_name = Word(alphas)(\"first_name\") + Word(alphas)(\"last_name\")\nIf adding results name to an expression that is contains one more sub-expressions with results names, the expression must be inclused in a Group.\n\nPrefer Keyword over Literal for reserved words to avoid partial matches (e.g., Keyword(\"for\") will not match the leading “for” in “format”).\n\nUse pp.CaselessKeyword/pp.CaselessLiteral when keywords should match regardless of case.\n\nWhen the full input must be consumed, call parse_string with parse_all=True.\nIf the grammar must handle comments, define an expression for them and use the ignore() method to skip them.\n\nPrefer built-ins like pp.cpp_style_comment and pp.python_style_comment for common comment syntaxes.\n\nUse pyparsing Group to organize sub-expressions. Groups are also important for preserving results names when a sub-expression is used in a OneOrMore or ZeroOrMore expression.\nSuppress punctuation tokens to keep results clean; a convenient pattern is LBRACK, RBRACK, LBRACE, RBRACE, COLON = pp.Suppress.using_each(\"[]{}:\").\nFor comma-separated sequences, prefer pp.DelimitedList(...); wrap with pp.Optional(...) to allow empty lists or objects where appropriate.\nFor helper sub-expressions used only to build larger expressions, consider set_name(None) to keep result dumps uncluttered.\nUse pyparsing Each() to define a list of elements that may occur in any order.\n\nThe ‘&’ operator is the operator form of Each and is often more readable when combining order-independent parts.\n\nUse parse actions to do parse-time conversion of data from strings to useful data types.\n\nUse objects defined in pyparsing.common for common types like integer, real — these already have their conversion parse actions defined.\nFor quoted strings, use pp.dbl_quoted_string().set_parse_action(pp.remove_quotes) to unquote automatically.\nMap reserved words to Python constants per this example for parsing “true” to auto-convert to a Python True: pp.Keyword(\"true\").set_parse_action(pp.replace_with(True)) (and similarly for false/null/etc.).\nWhen you want native Python containers from the parse, use pp.Group(..., aslist=True) for lists and pp.Dict(..., asdict=True) for dict-like data.\n\nUse “using_each” with a list of keywords to define keyword constants, instead of separate assignments.\nChoose the appropriate matching method:\n\nparse_string() parses from the start\nsearch_string() searches anywhere in the text\nscan_string() yields all matches with positions\ntransform_string() is a convenience wrapper around scan_string to apply filters or transforms defined in parse actions, to perform batch transforms or conversions of expressions within a larger body of text\n\nFor line suffixes or directives, combine lookahead and slicing helpers: pp.FollowedBy(...) with pp.rest_of_line; when reusing a base expression with a different parse action, call .copy() before applying the new action to avoid side effects.\nWhen defining a parser to be used in a REPL:\n\nadd pyparsing Tag() elements of the form Tag(\"command\", &lt;command-name&gt;) to each command definition to support model construction from parsed commands.\ndefine model classes using dataclasses, and use the “command” attribute in the parsed results to identify which model class to create. The model classes can then be used to construct the model from the ParseResults returned by parse_string(). Define the models in a separate parser_models.py file.\n\nIf defining the grammar as part of a Parser class, only the finished grammar needs to be implemented as an instance variable.\nParseResults support “in” testing for results names. Use “in” tests for the existence of results names, not hasattr().\nAvoid left recursion where possible. If you must support left-recursive grammars, enable it with pp.ParserElement.enable_left_recursion() and do not enable packrat at the same time (these modes are incompatible).\nUse pp.SkipTo as a skipping expression to skip over arbitrary content.\n\nFor example, pp.SkipTo(pp.LineEnd()) will skip over all content until the end of the line; add a stop_on argument to SkipTo to stop skipping when a particular string is matched.\nUse ... in place of simple SkipTo(expression)"
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#testing",
+    "href": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#testing",
+    "title": "Interactive Supplementary Appendix",
+    "section": "Testing",
+    "text": "Testing\n\nUse the pyparsing ParserElement.run_tests method to run mini validation tests.\n\nPass a single multiline string to run_tests to test the parser on multiple test input strings, each line is a separate test.\nYou can add comments starting with “#” within the string passed to run_tests to document the individual test cases.\nTo pass test input strings that span multiple lines, pass the test input strings as a list of strings.\nPass parse_all=True to run_tests to test that the entire input is consumed.\n\nWhen generating unit tests for the parser:\n\ngenerate tests that include presence and absence of optional elements\nuse the methods in the mixin class pyparsing.testing.TestParseResultsAsserts to easily define expression, test input string, and expected results\ndo not generate tests for invalid data"
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#debugging",
+    "href": "gonghan-ISA/Lib/site-packages/pyparsing/ai/best_practices.html#debugging",
+    "title": "Interactive Supplementary Appendix",
+    "section": "Debugging",
+    "text": "Debugging\n\nIf troubleshooting parse actions, use pyparsing’s trace_parse_action decorator to echo arguments and return value\nDuring development, call pp.autoname_elements() to auto-assign names to unnamed expressions to improve dump() and error messages.\nSub-expressions can be tested in isolation using ParserElement.matches()\nWhen defined out of order, Literals can mistakenly match fragments: Literal(\"for\") will match the leading “for” in “format”. Can be corrected by using Keyword instead of Literal.\nDump the parsed results using ParseResults.dump(), ParseResults.pprint(), or repr(ParseResults)."
+  },
+  {
+    "objectID": "gonghan-ISA/Lib/site-packages/soupsieve-2.8.4.dist-info/licenses/LICENSE.html",
+    "href": "gonghan-ISA/Lib/site-packages/soupsieve-2.8.4.dist-info/licenses/LICENSE.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2018 - 2026 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "Template homepage.\n\n\n\nThis study is based on three structured data modalities: clinical baseline, physical and chemical examination, and tongue and pulse diagnosis, combined with infrared thermography image modality for fusion modeling, to train a binary classification model for inferring uterine cold syndrome. The total number of included samples is 1011, with 553 samples being positive for uterine cold syndrome (positive category) and 458 samples being negative for uterine cold syndrome (negative category). The basic proportion is average. The performance of the model was evaluated using hierarchical K-Fold cross validation (K=5), with an overall average AUC of 0.849 (95% CI: 0.768-0.932) and an average accuracy ACC of 0.783 (95% CI: 0.724-0.838). Research has shown that the multimodal deep fusion model proposed in this study effectively integrates the features of four modal branches, achieving complementarity and enhancement between different information sources. The model automatically learns the complementary relationship between different modal features during the training process. The structured dimensionality reduction and nonlinear interaction mechanism of the fusion layer enable the full fusion of modal information, providing an interpretable and generalizable fusion framework for the recognition of uterine cold syndrome. The performance gain is significant, and its discriminative ability, classification accuracy, and robustness are all relatively good.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nItem\nValue\n\n\n\n\nSamples\n–\n\n\nFigures\n–\n\n\nTables\n–\n\n\n\n\n\n\nSee Figures.\n\n\n\nSee Tables.\n\n\n\nSee Downloads."
+  },
+  {
+    "objectID": "index.html#study-overview",
+    "href": "index.html#study-overview",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "This study is based on three structured data modalities: clinical baseline, physical and chemical examination, and tongue and pulse diagnosis, combined with infrared thermography image modality for fusion modeling, to train a binary classification model for inferring uterine cold syndrome. The total number of included samples is 1011, with 553 samples being positive for uterine cold syndrome (positive category) and 458 samples being negative for uterine cold syndrome (negative category). The basic proportion is average. The performance of the model was evaluated using hierarchical K-Fold cross validation (K=5), with an overall average AUC of 0.849 (95% CI: 0.768-0.932) and an average accuracy ACC of 0.783 (95% CI: 0.724-0.838). Research has shown that the multimodal deep fusion model proposed in this study effectively integrates the features of four modal branches, achieving complementarity and enhancement between different information sources. The model automatically learns the complementary relationship between different modal features during the training process. The structured dimensionality reduction and nonlinear interaction mechanism of the fusion layer enable the full fusion of modal information, providing an interpretable and generalizable fusion framework for the recognition of uterine cold syndrome. The performance gain is significant, and its discriminative ability, classification accuracy, and robustness are all relatively good."
+  },
+  {
+    "objectID": "index.html#graphical-abstract",
+    "href": "index.html#graphical-abstract",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "(Insert image here.)"
+  },
+  {
+    "objectID": "index.html#quick-statistics",
+    "href": "index.html#quick-statistics",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "Item\nValue\n\n\n\n\nSamples\n–\n\n\nFigures\n–\n\n\nTables\n–"
+  },
+  {
+    "objectID": "index.html#interactive-figures",
+    "href": "index.html#interactive-figures",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "See Figures."
+  },
+  {
+    "objectID": "index.html#interactive-tables",
+    "href": "index.html#interactive-tables",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "See Tables."
+  },
+  {
+    "objectID": "index.html#downloads",
+    "href": "index.html#downloads",
+    "title": "Interactive Supplementary Appendix",
+    "section": "",
+    "text": "See Downloads."
+  },
+  {
+    "objectID": "tables.html",
+    "href": "tables.html",
+    "title": "Interactive Tables",
+    "section": "",
+    "text": "This page provides interactive tables, source data and table notes accompanying the manuscript."
+  },
+  {
+    "objectID": "tables.html#manuscript-table",
+    "href": "tables.html#manuscript-table",
+    "title": "Interactive Tables",
+    "section": "Manuscript Table",
+    "text": "Manuscript Table"
+  },
+  {
+    "objectID": "tables.html#interactive-table",
+    "href": "tables.html#interactive-table",
+    "title": "Interactive Tables",
+    "section": "Interactive Table",
+    "text": "Interactive Table\n\nimport pandas as pd\nfrom IPython.display import HTML\n\n# 读取 CSV\ndf = pd.read_csv(\"assets/data/DCA_Curve_Data.csv\")\n\n# 输出 HTML Table\nHTML(\n    df.to_html(\n        index=False,\n        table_id=\"figure1_table\",\n        classes=[\n            \"display\",\n            \"compact\",\n            \"stripe\",\n            \"hover\",\n            \"nowrap\"\n        ],\n        border=0,\n        escape=False\n    )\n)\n\n\n\n\nThreshold\nNet_Benefit_Model\nNet_Benefit_TreatAll\nNet_Benefit_TreatNone\n\n\n\n\n0.01\n0.542407\n0.542407\n0\n\n\n0.02\n0.537738\n0.537738\n0\n\n\n0.03\n0.532972\n0.532972\n0\n\n\n0.04\n0.528107\n0.528107\n0\n\n\n0.05\n0.523140\n0.523140\n0\n\n\n0.06\n0.518130\n0.518067\n0\n\n\n0.07\n0.513332\n0.512885\n0\n\n\n0.08\n0.508795\n0.507590\n0\n\n\n0.09\n0.504331\n0.502179\n0\n\n\n0.10\n0.499396\n0.496648\n0\n\n\n0.11\n0.492193\n0.490992\n0\n\n\n0.12\n0.486422\n0.485208\n0\n\n\n0.13\n0.482975\n0.479291\n0\n\n\n0.14\n0.477147\n0.473236\n0\n\n\n0.15\n0.473614\n0.467039\n0\n\n\n0.16\n0.469879\n0.460694\n0\n\n\n0.17\n0.465280\n0.454197\n0\n\n\n0.18\n0.461123\n0.447540\n0\n\n\n0.19\n0.456521\n0.440720\n0\n\n\n0.20\n0.454995\n0.433729\n0\n\n\n0.21\n0.453405\n0.426561\n0\n\n\n0.22\n0.450126\n0.419209\n0\n\n\n0.23\n0.445669\n0.411666\n0\n\n\n0.24\n0.443282\n0.403925\n0\n\n\n0.25\n0.440818\n0.395978\n0\n\n\n0.26\n0.438982\n0.387815\n0\n\n\n0.27\n0.438627\n0.379429\n0\n\n\n0.28\n0.435542\n0.370810\n0\n\n\n0.29\n0.431173\n0.361948\n0\n\n\n0.30\n0.418539\n0.352833\n0\n\n\n0.31\n0.410040\n0.343454\n0\n\n\n0.32\n0.401583\n0.333799\n0\n\n\n0.33\n0.394157\n0.323855\n0\n\n\n0.34\n0.390253\n0.313611\n0\n\n\n0.35\n0.389104\n0.303051\n0\n\n\n0.36\n0.386746\n0.292161\n0\n\n\n0.37\n0.386432\n0.280926\n0\n\n\n0.38\n0.381130\n0.269328\n0\n\n\n0.39\n0.376676\n0.257349\n0\n\n\n0.40\n0.372239\n0.244972\n0\n\n\n0.41\n0.367885\n0.232175\n0\n\n\n0.42\n0.365053\n0.218937\n0\n\n\n0.43\n0.359953\n0.205234\n0\n\n\n0.44\n0.358061\n0.191041\n0\n\n\n0.45\n0.352486\n0.176333\n0\n\n\n0.46\n0.348793\n0.161080\n0\n\n\n0.47\n0.345445\n0.145251\n0\n\n\n0.48\n0.337062\n0.128814\n0\n\n\n0.49\n0.330754\n0.111732\n0\n\n\n0.50\n0.329377\n0.093966\n0\n\n\n0.51\n0.323119\n0.075476\n0\n\n\n0.52\n0.315035\n0.056215\n0\n\n\n0.53\n0.306732\n0.036134\n0\n\n\n0.54\n0.298671\n0.015181\n0\n\n\n0.55\n0.290691\n-0.006704\n0\n\n\n0.56\n0.282529\n-0.029584\n0\n\n\n0.57\n0.270076\n-0.053527\n0\n\n\n0.58\n0.264801\n-0.078611\n0\n\n\n0.59\n0.262672\n-0.104919\n0\n\n\n0.60\n0.258160\n-0.132542\n0\n\n\n0.61\n0.252733\n-0.161582\n0\n\n\n0.62\n0.241658\n-0.192150\n0\n\n\n0.63\n0.234555\n-0.224370\n0\n\n\n0.64\n0.226728\n-0.258380\n0\n\n\n0.65\n0.216617\n-0.294334\n0\n\n\n0.66\n0.198580\n-0.332402\n0\n\n\n0.67\n0.189791\n-0.372778\n0\n\n\n0.68\n0.175692\n-0.415678\n0\n\n\n0.69\n0.166619\n-0.461345\n0\n\n\n0.70\n0.158589\n-0.510056\n0\n\n\n0.71\n0.134759\n-0.562127\n0\n\n\n0.72\n0.120673\n-0.617917\n0\n\n\n0.73\n0.094589\n-0.677840\n0\n\n\n0.74\n0.065891\n-0.742372\n0\n\n\n0.75\n0.067260\n-0.812067\n0\n\n\n0.76\n0.059677\n-0.887570\n0\n\n\n0.77\n0.058917\n-0.969638\n0\n\n\n0.78\n0.040734\n-1.059167\n0\n\n\n0.79\n0.028355\n-1.157223\n0\n\n\n0.80\n0.026706\n-1.265084\n0\n\n\n0.81\n0.015774\n-1.384299\n0\n\n\n0.82\n0.013188\n-1.516760\n0\n\n\n0.83\n0.012102\n-1.664805\n0\n\n\n0.84\n0.008408\n-1.831355\n0\n\n\n0.85\n-0.001319\n-2.020112\n0\n\n\n0.86\n-0.006217\n-2.235834\n0\n\n\n0.87\n0.002967\n-2.484745\n0\n\n\n0.88\n0.002967\n-2.775140\n0\n\n\n0.89\n0.002967\n-3.118335\n0\n\n\n0.90\n0.001978\n-3.530168\n0\n\n\n0.91\n0.001978\n-4.033520\n0\n\n\n0.92\n0.001978\n-4.662710\n0\n\n\n0.93\n0.001978\n-5.471669\n0\n\n\n0.94\n0.001978\n-6.550280\n0\n\n\n0.95\n0.001978\n-8.060336\n0\n\n\n0.96\n0.000989\n-10.325420\n0\n\n\n0.97\n0.000000\n-14.100561\n0\n\n\n0.98\n0.000000\n-21.650841\n0\n\n\n0.99\n0.000000\n-44.301682\n0"
+  },
+  {
+    "objectID": "tables.html#download-source-data",
+    "href": "tables.html#download-source-data",
+    "title": "Interactive Tables",
+    "section": "Download Source Data",
+    "text": "Download Source Data\n ⬇ Download CSV"
+  },
+  {
+    "objectID": "tables.html#table-notes",
+    "href": "tables.html#table-notes",
+    "title": "Interactive Tables",
+    "section": "Table Notes",
+    "text": "Table Notes\n\nDecision Curve Analysis (DCA).\n\nReplace this section with the original figure legend exactly as it appears in the manuscript."
+  }
+]

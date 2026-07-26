@@ -1,0 +1,345 @@
+/******************************************************************************
+ * ISA-SP v1.0
+ * styles.css
+ *
+ * Interactive Supplementary Appendix
+ ******************************************************************************/
+
+/* ============================================================
+   Global
+============================================================ */
+
+body{
+
+    font-family:
+        "Segoe UI",
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+
+    line-height:1.7;
+
+    color:#222;
+
+    background:#ffffff;
+
+}
+
+body,
+h1,
+h2,
+h3,
+p,
+li,
+td,
+th,
+button,
+input,
+select,
+textarea{
+
+    font-family:
+        system-ui,
+        sans-serif;
+
+}
+
+/* ============================================================
+   Headings
+============================================================ */
+
+h1{
+
+    margin-top:10px;
+
+    margin-bottom:30px;
+
+    font-weight:700;
+
+    color:#222;
+
+}
+
+h2{
+
+    margin-top:45px;
+
+    margin-bottom:18px;
+
+    padding-bottom:8px;
+
+    border-bottom:2px solid #ececec;
+
+    font-weight:600;
+
+}
+
+h3{
+
+    margin-top:28px;
+
+    margin-bottom:12px;
+
+    font-weight:600;
+
+}
+
+/* ============================================================
+   Figure
+============================================================ */
+
+img{
+
+    display:block;
+
+    margin-left:auto;
+
+    margin-right:auto;
+
+    border-radius:6px;
+
+    box-shadow:
+
+        0 2px 10px rgba(0,0,0,.08);
+
+}
+
+.quarto-figure{
+
+    margin-top:25px;
+
+    margin-bottom:25px;
+
+}
+
+/* ============================================================
+   Callout
+============================================================ */
+
+.callout{
+
+    border-radius:8px;
+
+}
+
+/* ============================================================
+   Download Button
+============================================================ */
+
+.download-panel{
+
+    margin-top:20px;
+
+    margin-bottom:40px;
+
+}
+
+.download-panel .btn{
+
+    padding:
+
+        10px 20px;
+
+    font-size:15px;
+
+}
+
+/* ============================================================
+   Table
+============================================================ */
+
+.table-responsive{
+
+    margin-top:20px;
+
+    margin-bottom:20px;
+
+}
+
+/* ============================================================
+   DataTables
+============================================================ */
+
+table.dataTable{
+
+    font-size:14px;
+
+    border-collapse:collapse !important;
+
+}
+
+table.dataTable thead th{
+
+    background:#f5f5f5;
+
+    font-weight:600;
+
+    white-space:nowrap;
+
+}
+
+table.dataTable tbody tr:hover{
+
+    background:#fafafa;
+
+}
+
+table.dataTable td{
+
+    white-space:nowrap;
+
+}
+
+/* ============================================================
+   Column Filter
+============================================================ */
+
+.filters input{
+
+    width:100%;
+
+    padding:4px 6px;
+
+    border:1px solid #ddd;
+
+    border-radius:4px;
+
+    font-size:12px;
+
+    box-sizing:border-box;
+
+}
+
+/* ============================================================
+   Buttons
+============================================================ */
+
+.dt-buttons{
+
+    margin-bottom:15px;
+
+}
+
+.dt-button{
+
+    margin-right:6px !important;
+
+}
+
+/* ============================================================
+   Search Box
+============================================================ */
+
+.dt-search{
+
+    margin-bottom:15px;
+
+}
+
+.dt-search input{
+
+    border-radius:4px;
+
+    border:1px solid #ccc;
+
+    padding:5px 8px;
+
+}
+
+/* ============================================================
+   Length Menu
+============================================================ */
+
+.dt-length{
+
+    margin-bottom:15px;
+
+}
+
+/* ============================================================
+   Info
+============================================================ */
+
+.dt-info{
+
+    margin-top:12px;
+
+}
+
+/* ============================================================
+   Pagination
+============================================================ */
+
+.dt-paging{
+
+    margin-top:10px;
+
+}
+
+/* ============================================================
+   Figure Legend
+============================================================ */
+
+blockquote{
+
+    border-left:4px solid #2c7fb8;
+
+    padding-left:15px;
+
+    color:#444;
+
+    font-style:normal;
+
+}
+
+/* ============================================================
+   Horizontal Rule
+============================================================ */
+
+hr{
+
+    margin-top:50px;
+
+    margin-bottom:50px;
+
+}
+
+/* ============================================================
+   Footer
+============================================================ */
+
+footer{
+
+    margin-top:60px;
+
+    color:#777;
+
+    font-size:13px;
+
+}
+
+/* ============================================================
+   Responsive
+============================================================ */
+
+@media (max-width:768px){
+
+    h1{
+
+        font-size:30px;
+
+    }
+
+    h2{
+
+        font-size:24px;
+
+    }
+
+    table.dataTable{
+
+        font-size:12px;
+
+    }
+
+}
